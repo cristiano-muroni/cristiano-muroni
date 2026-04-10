@@ -22,13 +22,6 @@ Sou um **Desenvolvedor Python & Chatbot Engineer** focado na criação de agente
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://vercel.app[cristiano-muroni]&show_icons=true&theme=radial)
-![Linguagens mais usadas](https://vercel.app[cristiano-muroni]&layout=compact&theme=radial)
-
----
-
 ### 📫 Vamos nos conectar?
 
 - 💼 [LinkedIn](https://linkedin.com[https://www.linkedin.com/in/cristianomuroni/])
