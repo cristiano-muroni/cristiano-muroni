@@ -31,6 +31,8 @@ Sou um **Desenvolvedor Python & Chatbot Engineer** focado na criação de agente
 
 <p align="center">
   <img src="[https://shields.io](https://img.shields.io/badge/ChatBot-0066FF.svg?style=for-the-badge&logo=ChatBot&logoColor=white)" />
+  <img src="https://img.shields.io/badge/LangChain-7FC8FF.svg?style=for-the-badge&logo=LangChain&logoColor=black" / >
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C.svg?style=for-the-badge&logo=LangGraph&logoColor=white" />  
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pytest-0A9EDC.svg?style=for-the-badge&logo=Pytest&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-3BABC3.svg?style=for-the-badge&logo=Flask&logoColor=white" />
@@ -45,6 +47,7 @@ Sou um **Desenvolvedor Python & Chatbot Engineer** focado na criação de agente
   <img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/NodeRED-8F0000.svg?style=for-the-badge&logo=Node-RED&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=NestJS&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2.svg?style=for-the-badge&logo=Google-Gemini&logoColor=white" /> 
   <img src="[https://shields.io](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)" />  
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white" / >
