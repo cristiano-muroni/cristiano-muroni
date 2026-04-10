@@ -32,7 +32,8 @@ Sou um **Desenvolvedor Python & Chatbot Engineer** focado na criação de agente
 <p align="center">
   <img src="[https://shields.io](https://img.shields.io/badge/ChatBot-0066FF.svg?style=for-the-badge&logo=ChatBot&logoColor=white)" />
   <img src="https://img.shields.io/badge/LangChain-7FC8FF.svg?style=for-the-badge&logo=LangChain&logoColor=black" / >
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C.svg?style=for-the-badge&logo=LangGraph&logoColor=white" />  
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C.svg?style=for-the-badge&logo=LangGraph&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/CrewAI-FF5A50.svg?style=for-the-badge&logo=CrewAI&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pytest-0A9EDC.svg?style=for-the-badge&logo=Pytest&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-3BABC3.svg?style=for-the-badge&logo=Flask&logoColor=white" />
