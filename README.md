@@ -1,4 +1,4 @@
-## Olá, eu sou o [Cristiano]! 👋
+## Olá, 👋 eu sou o Cristiano! 👨‍💻
 
 Sou um **Desenvolvedor Python & Chatbot Engineer** focado na criação de agentes de IA inteligentes, automações de atendimento e soluções escaláveis de Inteligência Artificial Generativa. Tenho mais de 4 anos de experiência no mercado de tecnologia transformando conversas em experiências eficientes.
 
@@ -8,8 +8,8 @@ Sou um **Desenvolvedor Python & Chatbot Engineer** focado na criação de agente
 
 - 🎓 **Formação:** Tecnólogo em Análise e Desenvolvimento de Sistemas.
 - 📚 **Especialização:** MBA em Gestão Estratégica de Projetos e Metodologias Ágeis.
-- 🤖 **Foco Atual:** Desenvolvimento de agentes de IA, engenharia de prompt e orquestração de Large Language Models (LLMs).
-- 💼 **Última Experiência de Impacto:** Na GAVB - Grupo Boticário (4+ anos), otimizei assistentes virtuais na plataforma **Blip**, integrei soluções de IA Generativa (como **Gemini**) com NLP tradicional e reduzi drasticamente o transbordo humano através de jornadas conversacionais de alto desempenho.
+- 🤖 **Foco Atual:** Desenvolvimento de agentes de IA, Desenvolvimentos de APIs em Python, engenharia de prompt e orquestração de Large Language Models (LLMs).
+- 💼 **Última Experiência de Impacto:** Na GAVB - Grupo Boticário (4+ anos), otimizei assistentes virtuais na plataforma **Blip**, com NLP tradicional e reduzi drasticamente o transbordo humano através de jornadas conversacionais de alto desempenho. Integrei soluções de IA Generativa em vários projetos e POCs para clientes.
 
 ---
 
