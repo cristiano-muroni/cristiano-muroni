@@ -1,6 +1,6 @@
 ## Olá, 👋 eu sou o Cristiano! 👨‍💻
 
-Sou um **Desenvolvedor Python & Chatbot Engineer** focado na criação de agentes de IA inteligentes, automações de atendimento e soluções escaláveis de Inteligência Artificial Generativa. Tenho mais de 4 anos de experiência no mercado de tecnologia transformando conversas em experiências eficientes.
+Sou um **Desenvolvedor Python & Chatbot Engineer** focado na criação de agentes de IA inteligentes, automações de atendimento e soluções escaláveis de Inteligência Artificial Generativa. Espelialista na plataforma Blip, tenho mais de 4 anos de experiência no mercado de tecnologia transformando conversas em experiências eficientes.
 
 ---
 
