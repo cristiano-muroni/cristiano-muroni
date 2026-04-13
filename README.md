@@ -31,6 +31,12 @@ Sou um **Desenvolvedor Python & Chatbot Engineer** focado na criação de agente
 
 <p align="center">
   <img src="[https://shields.io](https://img.shields.io/badge/ChatBot-0066FF.svg?style=for-the-badge&logo=ChatBot&logoColor=white)" />
+   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white" />  
   <img src="https://img.shields.io/badge/LangChain-7FC8FF.svg?style=for-the-badge&logo=LangChain&logoColor=black" / >
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C.svg?style=for-the-badge&logo=LangGraph&logoColor=white" /> 
   <img src="https://img.shields.io/badge/CrewAI-FF5A50.svg?style=for-the-badge&logo=CrewAI&logoColor=white" />
