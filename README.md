@@ -10,7 +10,6 @@ Sou um **Desenvolvedor Python & Chatbot Engineer** focado na criação de agente
 - 📚 **Pós-Graduação:** MBA em Gestão Estratégica de Projetos e Metodologias Ágeis.
 - 🤖 **Foco Atual:** Desenvolvimento de agentes de IA, Desenvolvimentos de APIs em Python, engenharia de prompt e orquestração de Large Language Models (LLMs).
 - 💼 **Última Experiência de Impacto:** Na GAVB - Grupo Boticário (4+ anos), otimizei assistentes virtuais na plataforma **Blip**, com NLP tradicional e reduzi drasticamente o transbordo humano através de jornadas conversacionais de alto desempenho. Integrei soluções de IA Generativa em vários projetos e POCs para clientes.
-
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
